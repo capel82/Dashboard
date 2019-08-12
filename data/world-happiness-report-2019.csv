@@ -1,0 +1,17 @@
+Country (region),Ladder,SD of Ladder,Positive affect,Negative affect,Social support,Freedom,Corruption,Generosity,"Log of GDP
+per capita","Healthy life
+expectancy"
+Finland,1,4,41,10,2,5,4,47,22,27
+Denmark,2,13,24,26,4,6,3,22,14,23
+Norway,3,8,16,29,3,3,8,11,7,12
+Iceland,4,9,3,3,1,7,45,3,15,13
+Netherlands,5,1,12,25,15,19,12,7,12,18
+Switzerland,6,11,44,21,13,11,7,16,8,4
+Sweden,7,18,34,8,25,10,6,17,13,17
+New Zealand,8,15,22,12,5,8,5,8,26,14
+Canada,9,23,18,49,20,9,11,14,19,8
+Austria,10,10,64,24,31,26,19,25,16,15
+Australia,11,26,47,37,7,17,13,6,18,10
+Costa Rica,12,62,4,87,42,16,58,75,67,28
+
+
